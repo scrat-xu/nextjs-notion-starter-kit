@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '38654e7e0005439795e2e5b301f3520a',
+  rootNotionPageId: '2d4d79de472c4f439bd68956c8e337d4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ScratXu',
-  domain: 'https://romantic-aluminum-b83.notion.site/Getting-Started-38654e7e0005439795e2e5b301f3520a',
+  domain: 'https://romantic-aluminum-b83.notion.site/Personal-Home-2d4d79de472c4f439bd68956c8e337d4',
   author: 'ScratXu',
 
   // open graph metadata (optional)
